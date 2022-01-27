@@ -9940,7 +9940,7 @@ header {
   opacity: 0.95; }
 
 .navbar .navbar-brand img {
-  max-width: 140px;
+  max-width: 200px;
   transition: all 0.5s ease; }
 
 .navbar-expand-lg .navbar-nav .nav-link span.fa {
@@ -10106,7 +10106,7 @@ nav ul li a:hover {
     right: 45px;
     top: 5px; }
   .navbar .navbar-brand img {
-    max-width: 140px; }
+    max-width: 200px; }
   .navbar-toggler {
     border: 0 none;
     font-size: 22px !important; }
