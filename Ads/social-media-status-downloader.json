@@ -12,6 +12,15 @@
                 "InterstitialAdKey": "",
                 "RewardedAdKey": "",
                 "NativeAdKey": ""
+            },
+            {
+                "MonetizationId": 1,
+                "MonetizerName": "Facebook Monetization",
+                "AdAppKey": "348709357116056",
+                "BannerAdKey": "348709357116056_348712500449075",
+                "InterstitialAdKey": "348709357116056_348712980449027",
+                "RewardedAdKey": "",
+                "NativeAdKey": ""
             }
         ]
     },
